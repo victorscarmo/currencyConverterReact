@@ -1,0 +1,23 @@
+.converter {
+    padding: 20px;
+    max-width: 300px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    background-color: #4EB60B ;
+    border-radius: 20px;
+}
+
+.result {
+    border-radius: 10px;
+    background-color: #50F030 ;
+    padding: 7px;
+    width: min-content;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+
+input {
+    font-weight: bold;
+    padding: 5px;
+    border-radius: 5px;
+    border-color: black;
+
+}
